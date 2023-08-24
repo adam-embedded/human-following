@@ -1,0 +1,1 @@
+wget https://tfhub.dev/tensorflow/lite-model/efficientdet/lite0/int8/1?lite-format=tflite
